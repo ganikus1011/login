@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/drawable/po_Cristo_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/layout/activity_marco2.xml" value="0.18" />
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/layout/activity_marco3.xml" value="0.1" />
@@ -12,6 +14,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/mipmap-anydpi-v26/ic_lluvias.xml" value="0.2203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/mipmap-anydpi-v26/ic_lluvias1.xml" value="0.2203125" />
         <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/mipmap-anydpi-v26/ic_lluvias_round.xml" value="0.2203125" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/nuevo/app/src/main/res/mipmap-anydpi-v26/po_Cristo.xml" value="0.1125" />
       </map>
     </option>
   </component>

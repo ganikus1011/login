@@ -40,6 +40,11 @@ public class MainActivity extends AppCompatActivity {
               newIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
               startActivity(newIntent);
           }
+          else if(id == R.id.menu_login){
+              Intent newIntent = new Intent(this, Login.class);
+              newIntent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+              startActivity(newIntent);
+          }
         return super.onOptionsItemSelected(menuItem);
     }
 

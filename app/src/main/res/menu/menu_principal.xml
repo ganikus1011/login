@@ -10,4 +10,7 @@
     <item
         android:id="@+id/menu_actividad"
         android:title="@string/marco3" />
+    <item
+        android:id="@+id/menu_login"
+        android:title="@string/Login" />
 </menu>
