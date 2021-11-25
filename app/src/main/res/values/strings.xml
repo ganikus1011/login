@@ -2,5 +2,6 @@
     <string name="app_name">nuevo</string>
     <string name="marco2">Actividad 2</string>
     <string name="marco3">Actividad 3</string>
+    <string name="conexionbd">Conexion</string>
     <string name="Login">logeo</string>
 </resources>
